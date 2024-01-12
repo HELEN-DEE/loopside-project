@@ -242,6 +242,8 @@ button:hover {
         justify-content: center;
         align-items: start;
         width: 100%;
+        transform: translateX(120%);
+        transition: 0.9s ease-in-out;
         display: none;
     }
     a {
